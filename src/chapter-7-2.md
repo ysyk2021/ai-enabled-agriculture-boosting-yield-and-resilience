@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-================================================================================================================
 
 The use of AI technology in agriculture raises ethical and legal considerations that must be carefully considered to mitigate risks and ensure compliance. In this chapter, we will discuss how to address these considerations.
 

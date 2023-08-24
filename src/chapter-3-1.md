@@ -1,5 +1,3 @@
-Using AI for Real-Time Crop Monitoring and Analysis
-=================================================================================================================
 
 Effective crop monitoring and management are critical for successful agriculture, and the use of AI technology can optimize and improve these practices. In this chapter, we will discuss how AI can enhance crop monitoring and management through real-time crop monitoring and analysis.
 

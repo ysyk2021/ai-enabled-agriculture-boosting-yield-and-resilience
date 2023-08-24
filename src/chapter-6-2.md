@@ -1,5 +1,3 @@
-AI-Driven Feed Formulation and Optimization
-==============================================================================================
 
 Livestock management is a crucial aspect of agriculture, and AI technology has the potential to significantly improve efficiency and productivity. In this chapter, we will discuss how AI-driven feed formulation and optimization can improve livestock management practices.
 

@@ -1,5 +1,3 @@
-Importance of Ethical and Legal Guidelines for AI
-=========================================================================================================================
 
 As AI technology becomes more prevalent in agriculture, ethical and legal considerations become increasingly important. In this chapter, we will discuss the importance of ethical and legal guidelines for AI-enabled agriculture.
 

@@ -1,5 +1,3 @@
-Chapter 6: Improving Livestock Management with AI
-=================================================
 
 Livestock management is a critical aspect of agriculture, and the use of AI technology can optimize and improve livestock management practices. In this chapter, we will discuss how AI can enhance livestock management through automated monitoring, health management, and feed formulation.
 

@@ -1,5 +1,3 @@
-Understanding the Role of AI in Agriculture
-==============================================================================================
 
 AI technology is transforming the agricultural industry by offering new solutions for crop management, livestock monitoring, and sustainable agriculture practices. In this chapter, we will discuss the role of AI in agriculture.
 
