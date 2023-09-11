@@ -1,5 +1,4 @@
-Chapter: Leveraging Machine Learning for Precision Farming
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
